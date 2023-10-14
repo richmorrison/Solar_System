@@ -1,6 +1,6 @@
 #pragma once
 
-#include <Physics/types.hpp>
+#include <Physics/Types/Vec3.hpp>
 
 #include <iostream>
 

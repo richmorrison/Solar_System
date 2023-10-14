@@ -1,6 +1,8 @@
 #pragma once
 
-#include <Physics/types.hpp>
+#include <Physics/Types/Vec3.hpp>
+#include <Physics/Types/NewtonianBody.hpp>
+#include <Physics/Types/SystemState.hpp>
 
 #include <vector>
 

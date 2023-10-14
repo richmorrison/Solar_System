@@ -1,3 +1,4 @@
+#include <Physics/Types/SystemState.hpp>
 #include <Numerics/ODEsolvers.hpp>
 #include <Physics/newtonian.hpp>
 #include <Physics/solar_system_objects.hpp>
